@@ -11,8 +11,6 @@ These files are;
 5. Second_question4.ipynb
 6. Second_question5.ipynb
 
-7. Third_question.ipynb
-
 ### 1. First_question.ipynb ###
 
 We use movielens-small.db and read this database.
